@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Feb 13 09:06:06 UTC 2026
+Last updated: Wed Feb 18 09:07:27 UTC 2026
 
 - NYT &gt; Technology
-- Anthropic Donates $20 Million to Super PAC Operation to Counter OpenAI
-- Instagram Chief Says Social Media Is Not ‘Clinically Addictive’ in Landmark Trial
-- OpenAI’s Biggest Challenge Is Turning Its A.I. Into a Cash Machine
-- A.I. Personalizes the Internet but Takes Away Control
-- Anthropic Is Valued at $380 Billion in New Funding Round
-- Why Tech Giants Are Accused of Causing Social Media Addiction
+- Chatbots Are the New Influencers Brands Must Woo
+- With Niche Tech World References, Vibe Hopes Its Billboards Reach Start-Up Insiders
+- Their Secret to a Happy Marriage? A Translation App
+- Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts
+- User Issues With X Appear to Have Resolved
+- Could an Electronic Coach Help Ski Jumpers Leap Farther?
