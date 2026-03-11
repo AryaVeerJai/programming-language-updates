@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Mar  6 08:59:23 UTC 2026
+Last updated: Wed Mar 11 09:03:47 UTC 2026
 
 - NYT &gt; Technology
-- Demand for AI Data Centers Sends Prospectors Hunting for Land and Power
-- A Word to the Wise: Don’t Trust A.I. to File Your Taxes
-- Elon Musk Defends Social Media Posts in Twitter Shareholder Lawsuit
-- Iranian TV and Social Media Project Defiant and Distorted View of the War
-- Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’
-- The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.
+- A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety
+- Meta Acquires Moltbook, the Social Network Just for A.I. Bots
+- YouTube Adds Tool to Help Public Figures Report Fake Videos
+- Former Meta A.I. Chief’s Start-Up Is Valued at $3.5 Billion
+- Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries
+- How Do You Use A.I. for Daily Life?
