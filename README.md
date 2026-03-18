@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Mar 13 09:02:21 UTC 2026
+Last updated: Wed Mar 18 09:10:30 UTC 2026
 
 - NYT &gt; Technology
-- Meta Delays Rollout of New A.I. Model After Performance Concerns
-- Social Media Addiction Trial Nears End. Society Long Ago Rendered Its Verdict.
-- A.I. Chatbots Want Your Health Records. Tread Carefully.
-- Silicon Valley’s Image Takes a Dark Turn in Pop Culture
-- A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.
-- Coding After Coders: The End of Computer Programming as We Know It
+- U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk
+- China Ramps Up Scrutiny of Meta’s Acquisition of Manus
+- Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real
+- Trapped in a Self-Driving Car During an Anti-Robot Attack
+- Turing Award Goes to Inventors of Quantum Cryptography
+- Silicon Valley Bet on War. The Bets Are Paying Off.
