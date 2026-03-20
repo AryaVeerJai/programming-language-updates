@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Mar 18 09:10:30 UTC 2026
+Last updated: Fri Mar 20 09:02:15 UTC 2026
 
 - NYT &gt; Technology
-- U.S. Says Anthropic Is an ‘Unacceptable’ National Security Risk
-- China Ramps Up Scrutiny of Meta’s Acquisition of Manus
-- Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real
-- Trapped in a Self-Driving Car During an Anti-Robot Attack
-- Turing Award Goes to Inventors of Quantum Cryptography
-- Silicon Valley Bet on War. The Bets Are Paying Off.
+- The Long Farewell to Mark Zuckerberg’s Metaverse
+- A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks
+- Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.
+- Silicon Valley Musters Behind-the-Scenes Support for Anthropic
+- U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws
+- Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.
