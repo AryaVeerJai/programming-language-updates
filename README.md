@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Mar 20 09:02:15 UTC 2026
+Last updated: Wed Mar 25 09:11:42 UTC 2026
 
 - NYT &gt; Technology
-- The Long Farewell to Mark Zuckerberg’s Metaverse
-- A.I. Bots Can Act as Personal Digital Assistants, but There Are Serious Risks
-- Sorry, Mom. You’re Chatting With an A.I. Agent, Not Your Son.
-- Silicon Valley Musters Behind-the-Scenes Support for Anthropic
-- U.S. Says 3 Tied to Silicon Valley Server Maker Broke Export Laws
-- Jeff Bezos in Talks to Raise $100 Billion Fund to Transform Companies With A.I.
+- Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips
+- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump
+- More! More! More! Tech Workers Max Out Their A.I. Use.
+- Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods
+- OpenAI Is Shutting Down Sora, Its A.I. Video Generator
+- Meta Ordered to Pay $375 Million Over Child Safety Violations
