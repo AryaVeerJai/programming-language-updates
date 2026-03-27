@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Mar 25 09:11:42 UTC 2026
+Last updated: Fri Mar 27 09:10:58 UTC 2026
 
 - NYT &gt; Technology
-- Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips
-- Epic Games Lays Off Over 1,000 Employees, Citing Fortnite Slump
-- More! More! More! Tech Workers Max Out Their A.I. Use.
-- Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods
-- OpenAI Is Shutting Down Sora, Its A.I. Video Generator
-- Meta Ordered to Pay $375 Million Over Child Safety Violations
+- Juries Take the Lead in the Push for Child Online Safety
+- Snapchat Investigated in Europe Over Child Safety Policies
+- Meta Lays Off 700 Employees, While Rewarding Top Executives
+- Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans
+- An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry
+- Why the Verdict Against Meta and YouTube Could Change Social Media
