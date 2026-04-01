@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Mar 27 09:10:58 UTC 2026
+Last updated: Wed Apr  1 09:40:27 UTC 2026
 
 - NYT &gt; Technology
-- Juries Take the Lead in the Push for Child Online Safety
-- Snapchat Investigated in Europe Over Child Safety Policies
-- Meta Lays Off 700 Employees, While Rewarding Top Executives
-- Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans
-- An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry
-- Why the Verdict Against Meta and YouTube Could Change Social Media
+- How Instagram’s ‘PG-13’ Branding for Teens Unraveled
+- A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion
+- States Plow Ahead With A.I. Regulation, Defying Trump
+- OpenAI Adds Another $12 Billion to Latest Funding Round
+- One of Apple’s First Employees Looks Back at 50 Years
+- Whoop, a Wearable Health Device Maker, Raises $575 Million
