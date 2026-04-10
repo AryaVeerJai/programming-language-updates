@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Apr  8 09:39:32 UTC 2026
+Last updated: Fri Apr 10 09:42:10 UTC 2026
 
 - NYT &gt; Technology
+- Federal Court Denies Anthropic’s Motion to Lift ‘Supply Chain Risk’ Label
+- Meta Unveils New A.I. Model, Its First From the Superintelligence Lab
 - Anthropic Claims Its New A.I. Model, Mythos, Is a Cybersecurity ‘Reckoning’
+- Volkswagen to End E.V. Production at Tennessee Plant
+- Half of Gen Z Uses AI, but Their Feelings Are Souring, Study Shows
 - How Accurate Are Google’s A.I. Overviews?
-- The Big Bang: A.I. Has Created a Code Overload
-- What Teens Are Doing With Those Role-Playing Chatbots
-- A.I. Is on Its Way to Upending Cybersecurity
-- Forget the A.I. Apocalypse. Memes Have Already Nuked Our Culture.
