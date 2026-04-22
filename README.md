@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Apr 17 09:51:01 UTC 2026
+Last updated: Wed Apr 22 09:56:27 UTC 2026
 
 - NYT &gt; Technology
-- What Is ‘Jagged Intelligence’ and How Can It Reframe the AI Debate?
-- That Meeting You Hate May Keep A.I. From Stealing Your Job
-- Snap Is Laying Off 16% of Full-Time Staff as It Embraces A.I.
-- Sneaker Company Allbirds Plans to Pivot to A.I. Yes, A.I.
-- Through A.I. Glasses-Powered Translation, Korea’s Theaters Hope for a K-Pop Moment
-- Pentagon Seeks Help From Ford and G.M.
+- SpaceX Strikes Deal With Cursor for $60 Billion
+- A Wish List for John Ternus, the Man Replacing Tim Cook as Apple’s CEO
+- Tim Cook Was Very, Very Good at Making Money
+- Even Without Internet Access, Prisoners Are Trying to Benefit From A.I.
+- Musk’s SpaceX Goals Shift Ahead of Its I.P.O.
+- Aging in Place: How Technology Might Help You Grow Old at Home
