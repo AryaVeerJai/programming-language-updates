@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri May  1 09:59:23 UTC 2026
+Last updated: Wed May  6 10:29:34 UTC 2026
 
 - NYT &gt; Technology
-- Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial
-- Apple Reports 17% Sales Jump, Powered by iPhones
-- Struggling With Phone Addiction? Try These Remedies.
-- How Good Is Google’s Gemini AI at Making Travel Plans?
-- Why So Many People Already Own Shares of Elon Musk’s SpaceX
-- Musk vs. Altman: What Is This Really About?
+- Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion
+- White House Considers Vetting A.I. Models Before They Are Released
+- S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures
+- Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm
+- American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.
+- Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies
