@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed May  6 10:29:34 UTC 2026
+Last updated: Fri May  8 09:58:31 UTC 2026
 
 - NYT &gt; Technology
-- Elon Musk’s Lawyers Ask OpenAI’s President Why He Is Worth $30 Billion
-- White House Considers Vetting A.I. Models Before They Are Released
-- S.E.C. Settles Lawsuit Against Elon Musk Over His Twitter Disclosures
-- Anthropic and Wall Street Giants Join Forces to Create New A.I. Firm
-- American Factories Lag in Adopting A.I. This Drugmaker Is an Exception.
-- Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies
+- Five Ways A.I. Search Beats an Old-School Google Search
+- Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips
+- Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI
+- Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year
+- The Hopelessness of ‘The Audacity’
+- Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.
