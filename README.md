@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri May  8 09:58:31 UTC 2026
+Last updated: Wed May 13 11:00:49 UTC 2026
 
 - NYT &gt; Technology
-- Five Ways A.I. Search Beats an Old-School Google Search
-- Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips
-- Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI
-- Anthropic’s C.E.O. Says It Could Grow by 80 Times This Year
-- The Hopelessness of ‘The Audacity’
-- Meditating or Rebooting? A Robot Buddhist Monk Comes to South Korea.
+- Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?
+- Anthropic in Talks to Raise Funding at a $950 Billion Valuation
+- A.I. and Humans Battle It Out in a Cybersecurity Showdown
+- Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?
+- Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch
+- Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.
