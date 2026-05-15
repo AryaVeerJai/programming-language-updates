@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed May 13 11:00:49 UTC 2026
+Last updated: Fri May 15 10:40:59 UTC 2026
 
 - NYT &gt; Technology
-- Musk Lawyer’s Question for Sam Altman on the Stand: Are You Trustworthy?
-- Anthropic in Talks to Raise Funding at a $950 Billion Valuation
-- A.I. and Humans Battle It Out in a Cybersecurity Showdown
-- Is Anthropic’s Claude Mythos Really a Cybersecurity Risk?
-- Silicon Valley’s A.I. Lobbying Blitz Reaches a Fever Pitch
-- Notable Researchers Join $4 Billion Effort to Build Self-Improving A.I.
+- OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case
+- Ishmael Reed Is Writing a Play About Elon Musk
+- Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up
+- Why A.I. Safety Controls Are Not Very Effective
+- Nvidia’s Future in China Remains Unclear After Trump-Xi Summit
+- U.S. and China Will Start Discussing A.I. Safety, Bessent Says
