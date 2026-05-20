@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri May 15 10:40:59 UTC 2026
+Last updated: Wed May 20 11:23:24 UTC 2026
 
 - NYT &gt; Technology
-- OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case
-- Ishmael Reed Is Writing a Play About Elon Musk
-- Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up
-- Why A.I. Safety Controls Are Not Very Effective
-- Nvidia’s Future in China Remains Unclear After Trump-Xi Summit
-- U.S. and China Will Start Discussing A.I. Safety, Bessent Says
+- Meta Begins Laying Off 8,000 Employees Amid A.I. Transformation
+- How Google Is Starting to Win the A.I. Race
+- Powered by A.I., Google Changes Its Search Box for the First Time in 25 Years
+- As OpenAI Celebrates Court Win Against Musk, Other Challenges Lie Ahead
+- Rising Energy Costs and Data Centers at Heart of NextEra’s Dominion Bid
+- Senate Republicans Introduce Funding Measure to Combat Online Child Abuse
