@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri May 22 11:21:07 UTC 2026
+Last updated: Wed May 27 11:50:55 UTC 2026
 
 - NYT &gt; Technology
-- Trump Cancels Signing of Executive Order Granting Oversight of A.I. Models
-- Gov. Gavin Newsom to Sign Executive Order Aimed at A.I. Job Loss
-- Trump Approved a Nvidia Chip for Sale in China. Beijing Doesn’t Want It.
-- Bluesky Says Kremlin Is Hacking Its Platform to Spread Propaganda
-- Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update
-- ‘Peanuts’ Music Owner Sues Interior Department and 3 Companies for Copyright Infringement
+- At the A.I. Epicenter, Technologists Dismiss Pope Leo’s Warnings About the New Technology
+- As A.I. Fever Rises in Silicon Valley, Pope Leo Has a Few Words
+- SpaceX IPO Filing Reveals Favorable Terms for Elon Musk
+- UK Institute Is Hunting for Dangers Lurking in AI
+- Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.
+- Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos
