@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri May 29 11:42:53 UTC 2026
+Last updated: Wed Jun  3 12:51:58 UTC 2026
 
 - NYT &gt; Technology
-- I Tried to Sell My House With A.I.
-- Anthropic Tops OpenAI to Become the World’s Most Valuable A.I. Start-Up
-- A.I. Is Making Scams Hard to Spot. Here’s How to Protect Yourself.
-- In Argentina, U.S. Tech Billionaire Peter Thiel Finds An Escape
-- Interesting Times: Why Are We Still Driving?
-- Teachers Union Urges Schools to Curb A.I. Chatbots and Screen Time
+- Trump Signs Executive Order Seeking Oversight of A.I. Models
+- Meta Expands Safety Features for Teenagers
+- Anthropic Files to Go Public, Setting Stage for Huge I.P.O.
+- European Union Outlines Plan to Reduce Dependence on American Tech
+- Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I.
+- Florida Sues OpenAI Over Chatbot Safety Concerns
