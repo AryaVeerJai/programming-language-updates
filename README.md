@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jun  3 12:51:58 UTC 2026
+Last updated: Fri Jun  5 11:39:04 UTC 2026
 
 - NYT &gt; Technology
-- Trump Signs Executive Order Seeking Oversight of A.I. Models
-- Meta Expands Safety Features for Teenagers
-- Anthropic Files to Go Public, Setting Stage for Huge I.P.O.
-- European Union Outlines Plan to Reduce Dependence on American Tech
-- Scientists Find Way to Supercharge Dangerous Computer ‘Worms’ With A.I.
-- Florida Sues OpenAI Over Chatbot Safety Concerns
+- Gwynne Shotwell, Elon Musk’s No. 2 at SpaceX, Is the Company’s Steady Hand
+- Who’s Excited for SpaceX’s I.P.O.? Space Nerds.
+- SpaceX IPO to Be Largest Ever at $135 Share Price
+- The Do’s and Don’ts of Buying Used Tech Gadgets
+- Hot I.P.O. Summer + What Is A.I. Doing to Math? + HatGPT
+- From Cow-Milking Robots to Weed-Zapping Lasers, Farmers Are Embracing A.I.
