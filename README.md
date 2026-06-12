@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jun 10 11:49:55 UTC 2026
+Last updated: Fri Jun 12 11:55:49 UTC 2026
 
 - NYT &gt; Technology
-- Dutch Authorities Block $115 Million Deal by a U.S. Tech Company
-- Why Apple’s A.I. Upgrade for Siri Won’t Be Available in Europe
-- OpenAI Files Confidentially for IPO as AI Companies Rush to Wall St.
-- In the Hybrid A.I.-Human Work Force, Who Will Actually Thrive?
-- How to Remove Apps You Never Use (or at Least Hide Them)
-- G.M. Plans to Develop Energy Storage Batteries as E.V. Sales Flag
+- Skeptics Question Whether SpaceX Is Worth $1.77 Trillion
+- How Tesla’s Stock Listing in 2010 Enabled SpaceX’s I.P.O.
+- Jeff Bezos Wants to Build an ‘Artificial General Engineer’
+- Microsoft C.E.O. Satya Nadella Says ‘Everyone Is a Stakeholder’ in A.I.
+- ‘Hard Fork’ Live, Part 1: Satya Nadella and Cindy Cohn
+- Google Sues to Stop Chinese Cybercrime Group from Using Its A.I.
