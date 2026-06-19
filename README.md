@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jun 17 12:32:30 UTC 2026
+Last updated: Fri Jun 19 12:27:45 UTC 2026
 
 - NYT &gt; Technology
-- A.I. Boom Ignites Asian Chip Companies
-- Riding High After I.P.O., SpaceX Will Buy A.I. Start-Up for $60 Billion
-- UK Announces Social Media Ban for Children Under 16
-- Trump Administration Reignites Its Feud With Anthropic Over Latest A.I. Models
-- ‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era
-- The Cloud Has Sound: The Unrelenting and Unseen Cost of the A.I. Boom
+- Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It.
+- New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.
+- Trump Says Apple to Buy Computer Chips from Intel
+- Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says
+- ‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future
+- The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League
