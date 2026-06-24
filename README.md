@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jun 19 12:27:45 UTC 2026
+Last updated: Wed Jun 24 11:20:08 UTC 2026
 
 - NYT &gt; Technology
-- Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It.
-- New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.
-- Trump Says Apple to Buy Computer Chips from Intel
-- Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says
-- ‘Hard Fork’ Live, Part 3: Differing Visions of an A.I. Future
-- The Ageless and Undefeated Champs of Tulsa’s Wii Bowling League
+- Meta Has Created a Prediction Markets App
+- U.S. Presses Meta to Agree to A.I. Reviews
+- China Takes Supercomputer Crown From U.S. For First Time Since 2017
+- Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators
+- Your Home Could Help Solve AI’s Growing Power Demand
+- N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute
