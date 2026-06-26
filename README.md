@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jun 24 11:20:08 UTC 2026
+Last updated: Fri Jun 26 11:18:53 UTC 2026
 
 - NYT &gt; Technology
-- Meta Has Created a Prediction Markets App
-- U.S. Presses Meta to Agree to A.I. Reviews
-- China Takes Supercomputer Crown From U.S. For First Time Since 2017
-- Tesla Crash That Killed a Texas Woman Will be Investigated by Federal Regulators
-- Your Home Could Help Solve AI’s Growing Power Demand
-- N.S.A. Lost Access to Powerful A.I. Model Amid Anthropic Dispute
+- Chinese A.I. Models Gain Ground on Anthropic and OpenAI
+- OpenAI Leans Toward Holding Up I.P.O. Until Next Year
+- Apple Raises Prices on Macs and iPads Amid the A.I. Boom
+- IBM Unveils New Method to Make Smaller Computer Chip Parts
+- ‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste
+- Intel’s Chip Business Shows Signs of Life After Years of Struggle
