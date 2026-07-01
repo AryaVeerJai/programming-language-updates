@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jun 26 11:18:53 UTC 2026
+Last updated: Wed Jul  1 11:35:17 UTC 2026
 
 - NYT &gt; Technology
-- Chinese A.I. Models Gain Ground on Anthropic and OpenAI
-- OpenAI Leans Toward Holding Up I.P.O. Until Next Year
-- Apple Raises Prices on Macs and iPads Amid the A.I. Boom
-- IBM Unveils New Method to Make Smaller Computer Chip Parts
-- ‘The Daily’ and ‘The Opinions’: How A.I. Is Changing Loneliness and Taste
-- Intel’s Chip Business Shows Signs of Life After Years of Struggle
+- U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models
+- Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public
+- Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
+- In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough
+- The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’
+- BMW Will Build a New Electric S.U.V. in South Carolina
