@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jul  3 11:04:27 UTC 2026
+Last updated: Wed Jul  8 10:32:15 UTC 2026
 
 - NYT &gt; Technology
-- The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’
-- U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models
-- Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public
-- Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
-- Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics
-- Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter
+- Meta Unveils an A.I. Image Generator
+- Why A.I. Distillation Has Become a Hot Topic in the Race with China
+- Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker
+- Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios
+- Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies
+- How Meta’s Threads Became as Popular as X
