@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jul  8 10:32:15 UTC 2026
+Last updated: Fri Jul 10 11:21:30 UTC 2026
 
 - NYT &gt; Technology
-- Meta Unveils an A.I. Image Generator
-- Why A.I. Distillation Has Become a Hot Topic in the Race with China
-- Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker
-- Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios
-- Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies
-- How Meta’s Threads Became as Popular as X
+- A Top OpenAI Executive, Fidji Simo, Steps Down
+- Meta Launches New A.I. Model as Global Technology Race Heats Up
+- OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet
+- New York Times and Other Publishers Ask Court to Penalize OpenAI
+- Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time
+- John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says
