@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jul 10 11:21:30 UTC 2026
+Last updated: Wed Jul 15 10:17:21 UTC 2026
 
 - NYT &gt; Technology
-- A Top OpenAI Executive, Fidji Simo, Steps Down
-- Meta Launches New A.I. Model as Global Technology Race Heats Up
-- OpenAI Releases GPT-5.6 Sol, Its Most Powerful AI Model Yet
-- New York Times and Other Publishers Ask Court to Penalize OpenAI
-- Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time
-- John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says
+- Europe Takes Step Toward Possible Social Media Ban for Children
+- Apple Sues OpenAI, Accusing It of Stealing Company Secrets
+- Meta Removes A.I. Feature on Instagram After Days of Backlash
+- Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook
+- From Twitter to X: 20 Years of Memes, Movements and Hot Takes
+- Data Centers to Add Billions in Power Costs in 13 States
