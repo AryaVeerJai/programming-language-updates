@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jul 17 10:14:12 UTC 2026
+Last updated: Wed Jul 22 10:35:39 UTC 2026
 
 - NYT &gt; Technology
-- Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.
-- Google Ordered to Give A.I. Rivals More Access on Android Smartphones
-- TSMC Adds $100 Billion to Its U.S. Spending Plan
-- SpaceX Briefly Falls Below I.P.O. Price of $135
-- White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says
-- Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant
+- OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library
+- What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram
+- Google Releases Three New Gemini A.I. Models
+- How Google’s A.I. Search Is Imperiling the Open Web
+- When Listening to Music Was a Team Sport
+- Judge Temporarily Pauses Paramount-Warner Bros. Deal
