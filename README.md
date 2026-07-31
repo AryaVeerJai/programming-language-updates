@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Jul 29 10:58:34 UTC 2026
+Last updated: Fri Jul 31 11:02:33 UTC 2026
 
 - NYT &gt; Technology
-- Mark Zuckerberg Blasts Centralization of A.I. Power
-- What Is Open-Weights A.I.?
-- An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms
-- Apple Introduces Leasing Program for iPhones and Other Devices
-- Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism
-- Couple Stalked by eBay Settle for $56 Million
+- Why an A.I. Bubble Might Not Be a Bad Thing
+- Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.
+- When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic
+- Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.
+- Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble
+- We All Do Errands. Noah Blau Films Them.
