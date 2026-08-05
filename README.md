@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Jul 31 11:02:33 UTC 2026
+Last updated: Wed Aug  5 10:55:34 UTC 2026
 
 - NYT &gt; Technology
-- Why an A.I. Bubble Might Not Be a Bad Thing
-- Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.
-- When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic
-- Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.
-- Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble
-- We All Do Errands. Noah Blau Films Them.
+- SpaceX, in First Earnings After IPO, Reports Soaring AI Spending
+- In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers
+- White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules
+- What Are Companies Getting for All That A.I. Spending?
+- Trump White House Readies AI Framework to Review Security Risks
+- Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules
