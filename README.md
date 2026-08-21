@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Aug 19 08:59:42 UTC 2026
+Last updated: Fri Aug 21 09:03:26 UTC 2026
 
 - NYT &gt; Technology
-- ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job
-- Meta to Stand Trial Over Claims It Addicted Children to Social Media
-- Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.
-- OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow
-- Apple Removes Some Fees for App Developers in European Union
-- The Blackout That Could Devastate America
+- Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion
+- Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?
+- A County Got Rich From Data Centers. Some Question ‘At What Cost?’
+- Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers
+- New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit
+- Two Binance Employees Detained in the U.A.E. Amid Police Inquiries
