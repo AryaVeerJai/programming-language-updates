@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Aug 21 09:03:26 UTC 2026
+Last updated: Wed Aug 26 09:06:48 UTC 2026
 
 - NYT &gt; Technology
-- Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion
-- Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?
-- A County Got Rich From Data Centers. Some Question ‘At What Cost?’
-- Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers
-- New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit
-- Two Binance Employees Detained in the U.A.E. Amid Police Inquiries
+- Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial
+- SpaceX to Spend $100 Billion on Spaceport in Louisiana
+- Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails
+- After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade
+- Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit
+- U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil
