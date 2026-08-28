@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Aug 26 09:06:48 UTC 2026
+Last updated: Fri Aug 28 20:15:09 UTC 2026
 
 - NYT &gt; Technology
-- Instagram Chief Says ‘No Silver Bullets’ for Teen Safety in Bellwether Trial
-- SpaceX to Spend $100 Billion on Spaceport in Louisiana
-- Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails
-- After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade
-- Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit
-- U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil
+- Prediction Markets and States Clashed, Setting Off a Furious Political Battle
+- Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.
+- Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain
+- Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending
+- Social Media and the Myth of the Big Tobacco Moment
+- Why Countries Are Pushing Social Media Bans Despite Their Flaws
