@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Aug 28 20:15:09 UTC 2026
+Last updated: Wed Sep  2 12:50:00 UTC 2026
 
 - NYT &gt; Technology
-- Prediction Markets and States Clashed, Setting Off a Furious Political Battle
-- Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.
-- Mark Zuckerberg Wants to Make Sure YouTube and TikTok Share His Pain
-- Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending
+- John Ternus Replaces Tim Cook as Apple CEO
+- FTC and 22 States Sue Amazon Over Advertising Practices
+- How Meta’s $17.1 Billion Social Media Settlement Came Together
 - Social Media and the Myth of the Big Tobacco Moment
-- Why Countries Are Pushing Social Media Bans Despite Their Flaws
+- Get to Know Your Phone’s Built-In Emergency Kit
+- Missouri Voters Appear to Recall City Councilman Over Data Center Support
