@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Sep  2 12:50:00 UTC 2026
+Last updated: Fri Sep  4 12:47:18 UTC 2026
 
 - NYT &gt; Technology
-- John Ternus Replaces Tim Cook as Apple CEO
-- FTC and 22 States Sue Amazon Over Advertising Practices
-- How Meta’s $17.1 Billion Social Media Settlement Came Together
-- Social Media and the Myth of the Big Tobacco Moment
-- Get to Know Your Phone’s Built-In Emergency Kit
-- Missouri Voters Appear to Recall City Councilman Over Data Center Support
+- Nvidia Buys Hugging Face in $12.9 Billion Deal
+- Which Investors Will Get Rich From Anthropic’s IPO?
+- Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google
+- In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules
+- The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra
+- Why the Hugging Face Hack Should Make You Worry More About A.I.
