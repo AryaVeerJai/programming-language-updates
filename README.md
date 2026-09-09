@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Sep  4 12:47:18 UTC 2026
+Last updated: Wed Sep  9 13:01:14 UTC 2026
 
 - NYT &gt; Technology
-- Nvidia Buys Hugging Face in $12.9 Billion Deal
-- Which Investors Will Get Rich From Anthropic’s IPO?
-- Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google
-- In a Big Win, Google Won’t Have to Break Up Its Ad Tech Business, Court Rules
-- The A.I. Mob That Attacked Hugging Face + METR’s Ajeya Cotra
-- Why the Hugging Face Hack Should Make You Worry More About A.I.
+- OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’
+- Meta Introduces Muse, an A.I. Agent That Can Send Your Emails and Book Your Travel
+- Apple Expected to Unveil a Folding iPhone at Annual Launch Event
+- Kenyans Made a Living Writing College Essays. Then A.I. Arrived.
+- California, an Environmental Bastion, Warms to Nuclear Energy
+- How Amazon’s Zoox Is Taking On Waymo in San Francisco
