@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Sep 16 13:35:01 UTC 2026
+Last updated: Fri Sep 18 13:01:39 UTC 2026
 
 - NYT &gt; Technology
-- Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown
-- Steve Bannon and Bernie Sanders Condemn Tech ‘Oligarchs’ and Demand A.I. Reforms
-- Senate Votes to Block Crypto Bill in Major Blow to the Industry
-- Cat Frazier, Whose Retro GIFs Celebrated a Weirder Internet, Dies at 35
-- How to Use AI to Plan a Trip: Better Prompts for Travel Recommendations
-- Age Limits for Social Media Outlined by European Union
+- Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History
+- How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears
+- OpenAI Discloses Six New Incidents of ‘Concerning&#39; A.I. Behavior
+- 4 Strategies to Battle ‘Techflation’
+- A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA
+- As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker
