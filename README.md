@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Sep 18 13:01:39 UTC 2026
+Last updated: Wed Sep 23 13:43:42 UTC 2026
 
 - NYT &gt; Technology
-- Microsoft and OpenAI Workers Worry About ‘Largest Theft of Labor’ in History
-- How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears
-- OpenAI Discloses Six New Incidents of ‘Concerning&#39; A.I. Behavior
-- 4 Strategies to Battle ‘Techflation’
-- A.I. Safety Goes Mainstream + a ‘Hard Fork’ Exit AMA
-- As Big Tech Takes Over Hollywood, the Picture Onscreen Gets Darker
+- I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away
+- An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.
+- Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate
+- What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta
+- An Army of Paid Creators Is Carpeting the Web With Political Content
+- The Big Threat Has Been Climate Change. Now Comes A.I.
