@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Sep 23 13:43:42 UTC 2026
+Last updated: Fri Sep 25 13:57:21 UTC 2026
 
 - NYT &gt; Technology
-- I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away
-- An A.I. Image of Trump Kissing a Woman Was Fake. It Spread Anyway.
-- Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate
-- What to Know About Recent A.I. Hacks at Google, Anthropic, OpenAI and Meta
-- An Army of Paid Creators Is Carpeting the Web With Political Content
-- The Big Threat Has Been Climate Change. Now Comes A.I.
+- Google Is Sending an A.I. Data Center to Outer Space
+- Complaints About Meta’s ‘Pervert Glasses’ Won’t Slow Tech’s Wearable Gadgets Drive
+- OpenAI’s A.I. Tried Breaching Four Other Targets, With No Prompting
+- Elizabeth Holmes to Transfer to Halfway House in August 2027
+- The Ezra Klein Show: Jensen Huang Thinks A.I. Alarmism Has Gone Too Far
+- Chatbots Are Not Your Friends
