@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Oct 21 13:57:47 UTC 2026
+Last updated: Fri Oct 23 13:37:27 UTC 2026
 
 - NYT &gt; Technology
-- SpaceX Swings to a Profit, as A.I. Business Grows
-- Joel Kaplan, Meta’s Global Policy Chief, to Leave After 15 Years
-- Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say
-- Elon Musk Says He Will Give a SpaceX Share to ‘Every Kid in America’
-- How The New York Times Reports on A.I. Images
-- UK to Headphone Dodgers on Trains: Shush
+- How a Legal Backlash Against Big Tech Is Forcing Big Changes
+- How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax
+- How the A.I. Boom Is Driving Up Sales of Gray Paint
+- A.I. and Its Dangers Are Embedded In the Midterm Elections
+- What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’
+- What Is PHP? Why Are Government and Business Websites Going Offline?
