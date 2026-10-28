@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Oct 23 13:37:27 UTC 2026
+Last updated: Wed Oct 28 15:13:49 UTC 2026
 
 - NYT &gt; Technology
-- How a Legal Backlash Against Big Tech Is Forcing Big Changes
-- How Mark Zuckerberg Pushed Meta to Shield Him From California’s Proposed Wealth Tax
-- How the A.I. Boom Is Driving Up Sales of Gray Paint
-- A.I. and Its Dangers Are Embedded In the Midterm Elections
-- What’s the Deal With Billy Evans? A Spoiler-Filled Guide to ‘You Can See Everything’
-- What Is PHP? Why Are Government and Business Websites Going Offline?
+- AI Is Finding a Flood of Bugs, and Silicon Valley Is Rushing to Fix Them
+- How Billionaires Are Fighting the Prop 40 California Wealth Tax
+- Wanted: Robot-Dog Walkers. $20/Hour.
+- Anthropic S-1 Reveals Rapid Growth Ahead of Blockbuster IPO
+- GM Is Leaving NYSE for the Nasdaq After More Than 100 Years
+- In the A.I. ‘Robogym,’ Machines Train to Be More Like Humans
