@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Oct 30 15:07:02 UTC 2026
+Last updated: Wed Nov  4 16:25:46 UTC 2026
 
 - NYT &gt; Technology
-- Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion
-- Big Tech’s Data Center Blitz Is Burning Through Cash and Scaring Wall St.
-- Intel’s Shares Plunge 20% as A.I. Hinders Some Parts of Its Business
-- Polymarket and Kalshi Turn Midterm Elections Into a Multimillion Dollar Market
-- Are We in an A.I. Bubble? We’re About to Find Out.
-- This Device Uses A.I. and Lasers to Kill Mosquitoes
+- Binance Says Hackers Plotted $6.3 Billion Crypto Heist for Months
+- Google Will Turn Off Search for Schools That Reject A.I.
+- Apple’s Profit Grows 12% Despite Component Price Worries
+- Inside Anthropic’s Hunt for A.I. Computing Power
+- Voting Problems Cause a Surge in Misleading Fraud Claims Online
+- OpenAI and Anthropic Set Up ‘War Rooms’ to Fight Disinfo About Midterm Elections
