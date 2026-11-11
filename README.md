@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Fri Nov  6 16:01:06 UTC 2026
+Last updated: Wed Nov 11 16:22:36 UTC 2026
 
 - NYT &gt; Technology
-- Microsoft’s Buyout Offer Sets Its Workforce on Edge
-- House G.O.P. Leaders Ask Nvidia’s Huang to Speak in Closed-Door Briefing
-- What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
-- Why the Tech Right Lost Big This Week
-- Tired of Slow TikToks? This Content Creator Gives You the Ending
-- Google, Meta and TikTok Sue California Over Ban on Features for Kids
+- Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight
+- Silicon Valley Tech Allies Support Jensen Huang
+- This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago
+- Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?
+- Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair
+- Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.
