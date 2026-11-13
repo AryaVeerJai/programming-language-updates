@@ -1,11 +1,11 @@
 # 💻 Programming Language Updates
 
-Last updated: Wed Nov 11 16:22:36 UTC 2026
+Last updated: Fri Nov 13 16:33:54 UTC 2026
 
 - NYT &gt; Technology
+- Jensen Huang Resigns From Nvidia After Affairs
+- Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him
 - Nvidia Scandal Puts Lori Huang, Jensen Huang’s Wife, In the Spotlight
-- Silicon Valley Tech Allies Support Jensen Huang
-- This Trader Raised Alarm About Nvidia’s China Entanglements Months Ago
-- Who Is Alice Huang, the Woman in the Middle of Nvidia’s Spy Scandal?
-- Trump Officials Clashed Over Megaspeed, Firm at Heart of Nvidia Affair
-- Why Is It So Hard to Teach A.I. Agents to Behave? Researchers Have a Theory.
+- Data Centers Will Continue to Be Built, Despite Midterm Elections
+- Silicon Valley Start-Ups Face a Future Without Jensen Huang’s Money
+- Wall Street Braces for Anthropic’s Spending
